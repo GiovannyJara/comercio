@@ -8,11 +8,12 @@ import { getAnalytics } from "firebase/analytics";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
+
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 export const environment = {
   production: false,
-  firebaseConfig: {
+  firebaseConfig: { 
     apiKey: "AIzaSyBh8yyRw08xTNWwYB5-Nf14Y1gh5-OWhjI",
     authDomain: "comercio-af06d.firebaseapp.com",
     projectId: "comercio-af06d",
